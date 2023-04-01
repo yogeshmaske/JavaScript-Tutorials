@@ -1,4 +1,3 @@
-let varMap = new Map();
 varMap.set("1","string");//string as key
 varMap.set(1,"num");//number as a key
 varMap.set(true,"bool");//boolean as keys
